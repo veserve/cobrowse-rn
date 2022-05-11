@@ -1,0 +1,9 @@
+{
+  "name": "cobrowse-rn",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "cobrowse-sdk-react-native": "^2.11.1"
+  }
+}
