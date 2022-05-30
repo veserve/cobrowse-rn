@@ -32,4 +32,4 @@ class Cobrowse {
 }
 
 export const VCobrowse = new Cobrowse;
-export const Redacted = Redacted;
+export const VRedacted = Redacted;
