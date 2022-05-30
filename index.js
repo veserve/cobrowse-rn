@@ -31,5 +31,5 @@ class Cobrowse {
   }
 }
 
-export const Cobrowse = new Cobrowse;
+export const VCobrowse = new Cobrowse;
 export const Redacted = Redacted;
