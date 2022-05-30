@@ -1,4 +1,5 @@
 import CBEngine from 'cobrowse-sdk-react-native';
+import { Redacted } from 'cobrowse-sdk-react-native';
 
 class Cobrowse {
   constructor() {
@@ -30,4 +31,5 @@ class Cobrowse {
   }
 }
 
-export default new Cobrowse;
+export const Cobrowse = new Cobrowse;
+export const Redacted = Redacted;
